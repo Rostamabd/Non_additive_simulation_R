@@ -1,5 +1,5 @@
 rm(list=ls())
-## we set the seed here to tell the program that always start from a same random number. 
+## we set the seed here to tell the program that always start from the same random number. 
 set.seed(12345)
 #==========# Loading files ####################==================================
 library(BGLR)
