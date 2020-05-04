@@ -17,6 +17,8 @@ Abdollahi-Arpanahi, R., Gianola, D. & Penagaricano, F. Deep learning versus para
 ## Run the Simulation
 
 ```
+> git clone https://github.com/Rostamabd/Non_additive_simulation_R.git
+
 > module load R
 > R
 > source("Simulation_non_additivity.R")
