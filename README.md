@@ -3,6 +3,8 @@
 **Author**: *Rostam Abdollahi-Arpanahi*
 
 **Date**: May 1st, 2020
+----
+
 
 ## Simulation based on observed genotype data
 
