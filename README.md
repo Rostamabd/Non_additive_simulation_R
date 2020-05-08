@@ -3,12 +3,12 @@
 **Author**: *Rostam Abdollahi-Arpanahi*
 
 **Date**: May 1st, 2020
-----
 
+---
 
 ## Simulation based on observed genotype data
 
-- This simulation program tell you how to simulate additive, dominance, epistasis gene action and combination of them for complex traits using R
+- This simulation program guide you how to simulate additive, dominance, epistasis gene action and combination of them for complex traits using R environment/language
 
 - The simulation script has been used in the following paper published in the GSE (Genet Sel Evol 52, 12, 2020)
 
@@ -20,7 +20,6 @@ Abdollahi-Arpanahi, R., Gianola, D. & Penagaricano, F. Deep learning versus para
 
 ```
 > git clone https://github.com/Rostamabd/Non_additive_simulation_R.git
-
 > module load R
 > R
 > source("Simulation_non_additivity.R")
