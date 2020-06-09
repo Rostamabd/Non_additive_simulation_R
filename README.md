@@ -8,7 +8,7 @@
 
 ## Simulation based on observed genotype data
 
-- This simulation program guide you how to simulate additive, dominance, epistasis gene action and combination of them for complex traits using R environment/language
+- This simulation program guides you how to simulate additive, dominance and epistasis gene action, and combination of them for complex traits using R environment/language
 
 - The simulation script has been used in the following paper published in the GSE (Genet Sel Evol 52, 12, 2020)
 
